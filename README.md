@@ -1,6 +1,6 @@
 # Project-Forest-Fire-Prediction
 
-Here "Project v2.ipynb" is main project file.
+Here "Project v2.ipynb" is main project file. Rest of the files are exercise related to the project.
 
 The objective of this project is to predict the probability of a forest area catching fire based on a number of meteorological factors such as temperature, wind speed, relative humility, FFMC, DMC, rainfall etc of the concerned area.
 Every year, we lost at least 550 crores worth of resources due to unpredictable forest fires. This project aims at creating a Machine Learning model that shall be capable of improving its performance accuracy upon being provided with more experience in terms of new, relevant data.
